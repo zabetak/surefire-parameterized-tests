@@ -1,1 +1,2 @@
 TestClass2#testCase1[P1]
+TestClass3#testCase1[1: SecondSpecial]
